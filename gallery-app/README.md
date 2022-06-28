@@ -18,6 +18,5 @@ This project helped me better understand the usefulness of good class design.
 Before I wrote any code, I planned out my application's scene graph (i.e., the containment hierarchy), 
 and designed custom components as needed.
 
-This project also demonstrates my knowledge of  
-[Maven](https://maven.apache.org/what-is-maven.html).
+This project also demonstrates my knowledge of [Maven](https://maven.apache.org/what-is-maven.html).
 I used Maven to easily compile my code and handle dependencies.
